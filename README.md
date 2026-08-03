@@ -51,15 +51,16 @@ Wanting better control over my files and media, I decided to build this server u
   - Configuring External SSD Permissions - SOLVED
   - resolving Jellyfin library access issues - SOLVED
   - configuring Samba file sharing - SOLVED
+
 What I learned: Linux Permissions, Mount Points
 
 # Future Improvement
-    - HTTPS configuration
-    - Domain name
-    - Reverse Proxy
-    - Pi-hole
-    - VPN access
-    - GitHub Actions for configuration backups
+   - HTTPS configuration
+   - Domain name
+   - Reverse Proxy
+   - Pi-hole
+   - VPN access
+   - GitHub Actions for configuration backups
 
 
             
